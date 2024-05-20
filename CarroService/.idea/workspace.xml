@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8dc85228-3853-484b-8180-22fbd5124dce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/DeVops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/DeVops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/Java_compiler_Maven/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/javac/javac.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/src/Suma_scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DATA SCIENTIST/JAVA/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaBasicJAVAC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaBasicJAVAC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crudDao/src/main/java/personas/Diseño.form" beforeDir="false" afterPath="$PROJECT_DIR$/../../crudDao/src/main/java/personas/Diseño.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crudDao/src/main/java/personas/Diseño.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../crudDao/src/main/java/personas/Diseño.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/carro/service/entity/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/carro/service/entity/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UsuarioService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UsuarioService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UsuarioService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../UsuarioService/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motoService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../motoService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motoService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../motoService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motoService/src/main/java/com/app/moto/service/entity/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../motoService/src/main/java/com/app/moto/service/entity/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motoService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../motoService/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/GO/.idea/GOLAND.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/GO/GOBASIC/.idea/GOBASIC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/GOLAND/src/test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/ApacheBeamJAVA/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/ApacheBeamJAVA/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/ApacheBeamJAVA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/ApacheBeamJAVA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/ApacheBeamJAVA/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/ApacheBeamJAVA/ApacheBeamJAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/ApacheBeamJAVA/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/ApacheBeamJAVA/src/main/java/org/example/StarterPipeline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaBasicJAVAC/JavaBasicJAVAC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaDesdeCero/src/Colecciones/ArrayListObjetos/comparable/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaDesdeCero/src/Colecciones/ArrayListObjetos/comparable/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaDesdeCero/src/POO/moverObjeto/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaDesdeCero/src/POO/registroCuentasBancarias/Registro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaIntermediateMAVEN/src/main/java/gui/wea.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaIntermediateMAVEN/src/main/java/gui/wea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaIntermediateMAVEN/src/main/java/listaspila/ClasePrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaIntermediateMAVEN/src/main/java/listaspila/Nodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaIntermediateMAVEN/src/main/java/listaspila/Pila.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaJAVAC/JavaBasicJAVAC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/JavaMySwl/src/main/java/org/example/conexion/Registro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/Java_Compiler_Maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/Java_Compiler_Maven/Java_Compiler_Maven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/Java_Compiler_Maven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/Java_Compiler_javac/JavaJAVAC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/libraries/sbt__org_scala_lang_scala_library_2_10_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/modules/untitled-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/modules/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/src/main/scala/ReadCSVFile.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/src/main/scala/org/example/App.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/src/test/scala/samples/junit.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/src/test/scala/samples/scalatest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/JAVA/untitled/src/test/scala/samples/specs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/PYTHON/.idea/PYTHON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/Document/ScalaCURSO/.idea/modules/scalacurso_4496-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/Document/ScalaCURSO/.idea/modules/scalacurso_4496.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaCURSO/.idea/modules/scalacurso_4496-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaCURSO/.idea/modules/scalacurso_4496.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaIJIDEA/.idea/modules/ScalaIJIDEA-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaIJIDEA/.idea/modules/ScalaIJIDEA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaJIDEA/.idea/modules/ScalaJIDEA-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaJIDEA/.idea/modules/ScalaJIDEA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/csv-editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/src/main/scala/org/example/App.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/src/main/scala/org/example/SparkLocal.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/src/test/scala/samples/junit.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/src/test/scala/samples/scalatest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programing_Language/SCALA/ScalaMAVEN/src/test/scala/samples/specs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/.idea/Proyect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/.idea/Proyect.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/AzureDataBaseConnectSpark/.idea/modules/ReadAzureSQL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/AzureDataBaseConnectSpark/.idea/modules/ReadAzureSQL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/CSVToAvroConverter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/CSVToAvroConverter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/CsvToDataframe/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/DataPathApacheBeam/DataPathApacheBeam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/DataPathApacheBeam/DataPathApacheBeam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/JavaApacheBeam/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/JavaApacheBeam/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/JavaApacheBeam/src/main/java/org/test/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/JavaApacheBeam/src/main/java/org/test/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/JavaApacheBeam/src/main/resources/Electric_Vehicle_Population_Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/PythonTransformExample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/PythonTransformExample/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/ReadAzureSQLRDD/.idea/modules/ReadAzureSQL-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/ReadAzureSQLRDD/.idea/modules/ReadAzureSQL-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/ReadAzureSQLRDD/.idea/modules/ReadAzureSQL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/ReadAzureSQLRDD/.idea/modules/ReadAzureSQL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/ReadAzureSqlScalaSpark/.idea/modules/ReadAzureSqlScalaSpark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/ReadAzureSqlScalaSpark/.idea/modules/ReadAzureSqlScalaSpark.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/java/basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/java/src/Estructuras_condicionales_anidadas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/scalaRDD/.idea/modules/scalaRDD-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Proyect/scalaRDD/.idea/modules/scalaRDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Proyect/scalaRDD/.idea/modules/scalaRDD.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleUserHome" value="/Applications/Gradle/gradle-8.0.2" />
+  </component>
+  <component name="LLMProjectSettings">
+    <option name="aiignore_manually_set" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="/Applications/Apache-Maven/apache-maven-3.8.6" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gWUkvY76XjntS7v7JNFrvVxwpS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/americocavallieri/Library/CloudStorage/OneDrive-Personal/DeVops/Document/ProgramingLanguage/JAVA/spring-boot-microservicios-1/CarroService&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;scala_project_settings_configurable.last_selected_tab_index&quot;: &quot;0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.SpringBootMicroserviciosCarroServiceApplication">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-boot-microservicios-carro-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.app.carro.service.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootMicroserviciosCarroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-boot-microservicios-carro-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.app.carro.service.springbootmicroservicioscarroservice.SpringBootMicroserviciosCarroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="css" value="CSS" />
+        <entry key="html" value="HTML" />
+        <entry key="java" value="JAVA" />
+        <entry key="js" value="JavaScript" />
+        <entry key="json" value="JSON" />
+        <entry key="json5" value="JSON5" />
+        <entry key="less" value="LESS" />
+        <entry key="protobuf" value="protobuf" />
+        <entry key="scala" value="Scala" />
+        <entry key="sql" value="SQL" />
+        <entry key="sqlu" value="SQL" />
+        <entry key="svg" value="SVG" />
+        <entry key="xhtml" value="XHTML" />
+        <entry key="xml" value="XML" />
+        <entry key="xpath" value="XPath" />
+        <entry key="yaml" value="yaml" />
+      </map>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-77ac15d44862-intellij.indexing.shared.core-IU-242.10180.25" />
+        <option value="bundled-js-predefined-1d06a55b98c1-cb551a44b0f8-JavaScript-IU-242.10180.25" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dc85228-3853-484b-8180-22fbd5124dce" name="Changes" comment="" />
+      <created>1715812973723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715812973723</updated>
+      <workItem from="1715812974797" duration="4000" />
+      <workItem from="1716235098761" duration="1000" />
+      <workItem from="1716237381592" duration="37000" />
+      <workItem from="1716237483204" duration="8000" />
+      <workItem from="1716237686115" duration="78000" />
+      <workItem from="1716237979095" duration="83000" />
+      <workItem from="1716238123862" duration="6000" />
+      <workItem from="1716238143453" duration="17000" />
+      <workItem from="1716238327092" duration="66000" />
+      <workItem from="1716238435956" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
